@@ -1,7 +1,7 @@
 SpotiDirect
 ===========
 
-Sample Android App for the Apr, 19st Cadiz Betabeers, Cadiz, ES for @ [47 Degrees][1] 
+Sample Android App for the Apr, 19st Cadiz Betabeers, Cadiz, ES from @ [47 Degrees][1] 
 
 - [Introduction](#introduction)
 - [Icon](#icon)
@@ -11,7 +11,7 @@ Click to watch video
 
 # Introduction
 
-You can save NFC Tag with song and albums of Spotify and later can listen it with touch and hold against phone
+This app demonstrates how you can save Spotify's songs and albums on a NFC Tag and how you can read the tag to open the intent back on Spotify
 
 # Icon
 
