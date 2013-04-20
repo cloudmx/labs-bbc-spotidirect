@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpotiDirect</string>
+    <string name="messageNFC">We will record the NFC card with a %1$s Spotify. Touch and hold against phone</string>
+
+    <string name="noKeySpotify">We do not have Spotify key.\n\nRemember if you want to record a list, you should open album or song on Spotify and share it with SpotiDirect </string>
+
+    <string name="noNFC">Are you sure your NFC is active?</string>
+
+    <string name="readOnlyTag">Read-only tag</string>
+    <string name="notFreeSpace">Tag doesn\'t have enough free space</string>
+    <string name="tagWritten">Tag written successfully</string>
+    <string name="notSupportNDEFFormat">Tag doesn\'t appear to support NDEF format</string>
+    <string name="failedWriteTag">Failed to write tag</string>
+    <string name="unableFormatNDEF">Unable to format tag to NDEF</string>
+    <string name="problemInfoTag">Information tag don\'t found</string>
+
+    <string name="keyTypeList">user\'s list</string>
+    <string name="keyTypeTrack">track</string>
+    <string name="keyTypeAlbum">album</string>
+    <string name="keyTypeUnknown">unknown</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpotiDirect</string>
+    <string name="messageNFC">Vamos a grabar la tarjeta NFC con una %1$s de Spotify. Ya sabes lo que tienes que hacer</string>
+
+    <string name="noKeySpotify">No tenemos key de Spotify. ¿Lo estás haciendo bien?\n\nRecuerda que para grabar una lista, álbum o canción debes compartir con SpotiDirect desde Spotify</string>
+
+    <string name="noNFC">¿Estás seguro que tienes NFC o tu NFC está activo?</string>
+
+    <string name="readOnlyTag">Tarjeta de sólo lectura</string>
+    <string name="notFreeSpace">El tag no tiene suficiente espacio</string>
+    <string name="tagWritten">Tag grabado</string>
+    <string name="notSupportNDEFFormat">El tag no tiene formato NDEF</string>
+    <string name="failedWriteTag">Fallo al grabar el tag</string>
+    <string name="unableFormatNDEF">No se le puede dar formato NDEF a la tarjeta</string>
+    <string name="problemInfoTag">No se encuentra información en la tarjeta</string>
+
+    <string name="keyTypeList">lista de usuario</string>
+    <string name="keyTypeTrack">canción</string>
+    <string name="keyTypeAlbum">album</string>
+    <string name="keyTypeUnknown">desconocido</string>
+
+</resources>
