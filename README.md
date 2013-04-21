@@ -7,8 +7,6 @@ Sample Android App for the Apr, 19st Cadiz Betabeers, Cadiz, ES from @ [47 Degre
 - [Icon](#icon)
 - [License](#license)
  
-Click to watch video
-
 # Introduction
 
 This app demonstrates how you can save Spotify's songs and albums on a NFC Tag and how you can read the tag to open the intent back on Spotify
